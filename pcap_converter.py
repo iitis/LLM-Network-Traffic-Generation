@@ -4,6 +4,7 @@ from scapy.layers.dot15d4 import Dot15d4, Dot15d4Data
 from scapy.layers.zigbee import ZigbeeAppDataPayload, ZigbeeClusterLibrary, ZigbeeNWK, ZigbeeNWKCommandPayload, LinkStatusEntry
 import json
 import sys
+from pathlib import Path
 
 class ZigbeePacketGenerator:
     def __init__(self, timestamp):
@@ -591,37 +592,49 @@ def main():
     Main function to generate Zigbee packets from a JSON file.
     """
     # Load the JSON file
-    if len(sys.argv) < 2:
-        print("Usage: python generator.py <json_file>")
+    if len(sys.argv) < 3:
+        print("Usage: python generator.py <input_dir> <output_dir>")
         sys.exit(1)
 
-    json_file = sys.argv[1]
+    input_dir = Path(sys.argv[1])
+    output_dir = Path(sys.argv[2])
 
-    with open(json_file, "r") as f:
-        data = json.load(f)
+    if not input_dir.exists() or not input_dir.is_dir():
+        print(f"Input directory {input_dir} does not exist or is not a directory.")
+        sys.exit(1)
 
-    generator = ZigbeePacketGenerator(timestamp=1577870400.0)
-    packets = []
+    if not output_dir.exists():
+        output_dir.mkdir(parents=True)
+        print(f"Created output directory: {output_dir}")
+    
+    for json_file in input_dir.glob("*.json"):
+        with open(json_file, "r", encoding="utf-8") as f:
+            raw = f.read()
 
-    pan_id = 0x15de
+        data = json.loads(json.loads(raw))
 
-    # Iterate through the packets in the JSON
-    for packet in data["packets"]:
-        timediff = float(packet["time"])
-        destination_addr = int(packet["dst"], 16)
-        source_addr = int(packet["src"], 16)
-        packet_type = packet["info"]
+        generator = ZigbeePacketGenerator(timestamp=1577870400.0)
+        packets = []
 
-        packets.append(generator.generate_packet(
-            packet_info=packet_type,
-            timediff=timediff,
-            pan_id=pan_id,
-            destination_addr=destination_addr,
-            source_addr=source_addr
-        ))
+        pan_id = 0x15de
 
-    output_file = json_file.rsplit(".", 1)[0] + ".pcap"
-    wrpcap(output_file, packets)
+        # Iterate through the packets in the JSON
+        for packet in data:
+            timediff = float(packet["time"])
+            destination_addr = int(packet["dst"], 16)
+            source_addr = int(packet["src"], 16)
+            packet_type = packet["info"]
+
+            packets.append(generator.generate_packet(
+                packet_info=packet_type,
+                timediff=timediff,
+                pan_id=pan_id,
+                destination_addr=destination_addr,
+                source_addr=source_addr
+            ))
+
+        output_file = output_dir / (json_file.stem + ".pcap")
+        wrpcap(str(output_file), packets)
 
 if __name__ == "__main__":
     main()
