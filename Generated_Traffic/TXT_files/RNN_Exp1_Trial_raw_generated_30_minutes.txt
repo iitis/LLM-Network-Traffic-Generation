@@ -1,0 +1,402 @@
+
+{"time": "208.217291", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "21", "info": "ZCL: Read Attributes Response, Seq: 26"}
+{"time": "33.038379", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 238"}
+{"time": "414.64038", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 203"}
+{"time": "50.73404", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 42"}
+{"time": "33.34732", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 29"}
+{"time": "39.72517", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 112"}
+{"time": "198.317923", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 230"}
+{"time": "194.218074", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "39.84748", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "107.204721", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 47"}
+{"time": "59.43570", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 19"}
+{"time": "229.314051", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 239"}
+{"time": "395.33834", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "20.93295", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 165"}
+{"time": "538.928605", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 248"}
+{"time": "14.80337", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 165"}
+{"time": "534.278471", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: R7ead Attributes Response, Seq: 189"}
+{"time": "385.127812", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "530.84277", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 131"}
+{"time": "43.407015", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 221"}
+{"time": "243..058327", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 157"}
+{"time": "146.318887", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "181.646937", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 239"}
+{"time": "344.96038", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 146"}
+{"time": "543.637855", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 206"}
+{"time": "294.315506", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: G"}
+{"time": "456.23059", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 44"}
+{"time": "193.68738", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "342.337153", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "39.280788", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 216"}
+{"time": "354.58885", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 248"}
+{"time": "203.177991", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 52"}
+{"time": "28.913509", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 180"}
+{"time": "480.281563", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 220"}
+{"time": "258.205842", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.887292", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "16.575738", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 209"}
+{"time": "300.68102", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "47.90954", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 219"}
+{"time": "220.811486", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "236.92013", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "293.568865", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 125"}
+{"time": "348.593886", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 186"}
+{"time": "120.21714", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 28"}
+{"time": "52.43105", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 230"}
+{"time": "463.25887", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 166"}
+{"time": "217.502267", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 135"}
+{"time": "431.619374", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 95"}
+{"time": "39.99855", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 111"}
+{"time": "256.231787", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 136"}
+{"time": "280.618837", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 140"}
+{"time": "19.904337", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 17"}
+{"time": "231.071982", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 16"}
+{"time": "557.950376", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 153"}
+{"time": "543.80686", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 187"}
+{"time": "80.983527", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 162"}
+{"time": "167.946852", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "562.273791", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "400.282829", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "169..930371", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL knes: Rea Atrriutes Response, Seq: 166"}
+{"time": "73.970946", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 216"}
+{"time": "257.596395", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 232"}
+{"time": "140.819836", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 35"}
+{"time": "231.006326", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "142.066165", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 93"}
+{"time": "369.93950", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "294.639431", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 139"}
+{"time": "241.580772", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "28.303457", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 157"}
+{"time": "322.958537", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 184"}
+{"time": "216.93367", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 139"}
+{"time": "39.537405", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "48.303196", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 35"}
+{"time": "118.188474", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 30"}
+{"time": "69.98357", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "14.201834", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 208"}
+{"time": "448.188644", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 148"}
+{"time": "42.116741", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 16"}
+{"time": "160.78279", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "538.968578", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "168.794707", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "578.190547", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "60", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "442.966182", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "33.93505", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 136"}
+{"time": "458.430711", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 280"}
+{"time": "534.270811", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 25"}
+{"time": "248.270517", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 162"}
+{"time": "485.832981", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 132"}
+{"time": "39.548256", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "93.270619", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 25"}
+{"time": "550.748922", "src": "0x1de6", "dst": "0xfffc", "protoocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "208.662723", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 164"}
+{"time": "457.230397", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 132"}
+{"time": "43.305359", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 164"}
+{"time": "212.181467", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 282"}
+{"time": "214..903671", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 239"}
+{"time": "405.38834", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 237"}
+{"time": "50.715822", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Reed Attributes Response, Seq: 188"}
+{"time": "142.134543", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 35"}
+{"time": "444.639888", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 23"}
+{"time": "231.903587", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 221"}
+{"time": "525.182468", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 23"}
+{"time": "180.147215", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 159"}
+{"time": "43.923455", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "597.920297", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "28.101157", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 93"}
+{"time": "43.95663", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 16"}
+{"time": "13.780746", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 182"}
+{"time": "33.95568", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "343.960731", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 137"}
+{"time": "298.857614", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "26.271557", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 253"}
+{"time": "331.62782", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 18"}
+{"time": "39.86618", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 138"}
+{"time": "20.879555", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 123"}
+{"time": "393.57821", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 239"}
+{"time": "281.038337", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "482.368946", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 240"}
+{"time": "558.28983", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "52.21411", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 21"}
+{"time": "28.25963", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 208"}
+{"time": "40.938347", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 218"}
+{"time": "82.071348", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 33"}
+{"time": "19.845238", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 118"}
+{"time": "248.606185", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "43.303198", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "54.828397", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 179"}
+{"time": "20.814797", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Responses, Seq: 142"}
+{"time": "56.20347", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 138"}
+{"time": "54.629587", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "120.831572", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 168"}
+{"time": "28.30791", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 127"}
+{"time": "50.761982", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 183"}
+{"time": "568.278297", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 214"}
+{"time": "484.205743", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 111"}
+{"time": "182.637955", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "531.639857", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 216"}
+{"time": "281.792717", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 165"}
+{"time": "438.689738", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 28"}
+{"time": "48.931319", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "537.945078", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 118"}
+{"time": "234.803798", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 234"}
+{"time": "141.074653", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 134"}
+{"time": "120.88966", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 285"}
+{"time": "59.54938", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 116"}
+{"time": "80.741694", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 23"}
+{"time": "492.664371", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 163"}
+{"time": "518.526927", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 215"}
+{"time": "496.237259", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "58.201167", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 149"}
+{"time": "368.562757", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "120.890367", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 35"}
+{"time": "33.94358", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 207"}
+{"time": "512.237445", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 43"}
+{"time": "306.92861", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZCigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 47"}
+{"time": "43.078659", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 232"}
+{"time": "345.82837", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 220"}
+{"time": "398.292805", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "205.862272", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "221.430397", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "81.144208", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 180"}
+{"time": "58.120927", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 9"}
+{"time": "134.163774", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "180.578622", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 116"}
+{"time": "558.206826", "src": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 116"}
+{"time": "533.968487", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "256.246971", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "181.572267", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "28.195044", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 239"}
+{"time": "518.573487", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 9"}
+{"time": "14.801385", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 140"}
+{"time": "50.88674", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 30"}
+{"time": "43.217077", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 33"}
+{"time": "16.48077", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "306.96319", "src": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 184"}
+{"time": "296.37504", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 220"}
+{"time": "59.270192", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "480.554829", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 137"}
+{"time": "418.343396", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 234"}
+{"time": "537.573899", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 25"}
+{"time": "231.071921", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "89", "info": "Link Status"}
+{"time": "248.293958", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 164"}
+{"time": "426.936377", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "58.571097", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 33"}
+{"time": "31.50371", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee A", "length": "20", "info": "ZCL: Read Attributes Response, Seq: 219"}
+{"time": "233.507541", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "81", "info": "ZCL: Read Attributes Response, Seq: 216"}
+{"time": "50.963357", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "33", "info": "ZCL: Read Attributes Response, Seq: 43"}
+{"time": "20.8.57096", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 219"}
+{"time": "470.383247", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "211.180676", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "53.934087", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attibutes Response, Seq: 114"}
+{"time": "528.925037", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "204.885317", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBe": "61", "info": "ZCL: Read Attributes Response, Seq: 135"}
+{"time": "57.950756", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 181"}
+{"time": "33.57806", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "342.153188", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 119"}
+{"time": "33.968023", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 16"}
+{"time": "548.683967", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 182"}
+{"time": "340.788129", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 222"}
+{"time": "396.296583", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "316.988537", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 48"}
+{"time": "314.264371", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "", "info": "ZCL: Read Attributes Response, Seq: 153"}
+{"time": "231.900713", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 93"}
+{"time": "537.203431", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 183"}
+{"time": "52.821379", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 169"}
+{"time": "48.682377", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 149"}
+{"time": "20.750712", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 16"}
+{"time": "43.078312", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 35"}
+{"time": "211.097104", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 46"}
+{"time": "263.975998", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "329.83570", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 247"}
+{"time": "369.24103", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "28.935043", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "46.965890", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 235"}
+{"time": "50.729892", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "129.003346", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "318.92857", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "221.613682", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 55"}
+{"time": "167.291085", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 235"}
+{"time": "154.06826", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 120"}
+{"time": "522.218337", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 163"}
+{"time": "47.900397", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "47.130711", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 146"}
+{"time": "18.740671", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 15"}
+{"time": "57.308547", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.704871", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 4"}
+{"time": "548.207191", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 188"}
+{"time": "523.056163", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 235"}
+{"time": "221.085374", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.38316", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 21"}
+{"time": "392.217353", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 214"}
+{"time": "406.231648", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 33"}
+{"time": "47.675955", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 113"}
+{"time": "56.895970", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 154"}
+{"time": "222.292018", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.295812", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "80", "info": "Link Status"}
+{"time": "57.90097", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 85"}
+{"time": "57.047061", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 180"}
+{"time": "48.318892", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 254"}
+{"time": "29.33103", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 185"}
+{"time": "221.49056", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 46"}
+{"time": "233.507827", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "L: "ink Status"}
+{"time": "132.907485", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "38.239985", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 35"}
+{"time": "575.920791", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "48.575345", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 114"}
+{"time": "395.56842", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HAA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 85"}
+{"time": "447.633987", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 28"}
+{"time": "481.483433", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "253.231676", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "38.964731", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 19"}
+{"time": "534.537438", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "196.663892", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "41.703481", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 154"}
+{"time": "392.656823", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 116"}
+{"time": "529.62731", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "39.923752", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 48"}
+{"time": "46.985835", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 139"}
+{"time": "546.297011", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 21"}
+{"time": "48.331124", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 219"}
+{"time": "47.555314", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "542.618468", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 145"}
+{"time": "80.678229", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 220"}
+{"time": "202.317461", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "570.486961", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 118"}
+{"time": "398.227891", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "28.169629", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 2"}
+{"time": "448.634043", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "39.217502", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 145"}
+{"time": "443.033366", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "19.82877", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 234"}
+{"time": "43.578257", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 16"}
+{"time": "406.35287", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 30"}
+{"time": "229.310712", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "599.826382", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 216"}
+{"time": "582.947891", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 17"}
+{"time": "538.583377", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "349.988338", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "6", "info": "ZCL: Read Attributes Response, Seq: 23"}
+{"time": "33.657803", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 187"}
+{"time": "156.228937", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "34.57061", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 83"}
+{"time": "53.68083", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 26"}
+{"time": "48.504526", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "180.674882", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 148"}
+{"time": "596.324938", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "231.80741", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 185"}
+{"time": "184.263787", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "39.96372", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 169"}
+{"time": "161.70817", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 83"}
+{"time": "548.503547", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "180.663721", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "LLink Status"}
+{"time": "20.921077", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 42"}
+{"time": "294.206194", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "396.958682", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.979562", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 162"}
+{"time": "257.29317", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 258"}
+{"time": "50.983255", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Stutas"}
+{"time": "39.64470", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 187"}
+{"time": "20.871496", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "121.810177", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 139"}
+{"time": "48.631347", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "10.72098", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "33.95889", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 189"}
+{"time": "198.20847", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "53.983485", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 72"}
+{"time": "33.69380", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "291.313587", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 38"}
+{"time": "308.228187", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 143"}
+{"time": "59.884371", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "38.578957", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 233"}
+{"time": "248.138144", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "80.281167", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 70"}
+{"time": "597.250396", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "394.258388", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: "180"}
+{"time": "46.077119", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "23.673571", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 181"}
+{"time": "437.664887", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 213"}
+{"time": "585.335247", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "53.903782", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 188"}
+{"time": "196.287612", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee, HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 180"}
+{"time": "393.968623", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "28.314705", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 47"}
+{"time": "274.573279", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 184"}
+{"time": "318.072844", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 225"}
+{"time": "231.048318", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 135"}
+{"time": "138.671627", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "343.373188", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 269"}
+{"time": "59.373192", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "392.448337", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "148.861583", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "20.47809", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 7"}
+{"time": "423.658387", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 172"}
+{"time": "16.672825", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 61"}
+{"time": "118.131794", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 120"}
+{"time": "50.993948", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 24"}
+{"time": "331.602887", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 116"}
+{"time": "448.034843", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 233"}
+{"time": "522.317444", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 112"}
+{"time": "538.674204", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 117"}
+{"time": "261.90837", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 113"}
+{"time": "81.617829", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "598.420617", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 185"}
+{"time": "120.931557", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 218"}
+{"time": "50.88597", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 178"}
+{"time": "220.94314", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "43.670981", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 186"}
+{"time": "483.136771", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "218.207172", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 44"}
+{"time": "281.160147", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "319..869480", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 116"}
+{"time": "46.935074", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 168"}
+{"time": "58.270937", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, eq: 230"}
+{"time": "48.033954", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "39", "info": "ZCL: Read Attributes Response, Seq: 19"}
+{"time": "143.678782", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 93"}
+{"time": "20.668821", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "261.687537", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 125"}
+{"time": "438.676931", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 26"}
+{"time": "505.333484", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "420.353379", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 283"}
+{"time": "522.131444", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 219"}
+{"time": "438.537771", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 205"}
+{"time": "481.240835", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 23"}
+{"time": "198.725957", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 25"0 "}
+{"time": "580.333471", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 140"}
+{"time": "397.061252", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.781968", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 183"}
+{"time": "307.971041", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 82"}
+{"time": "323.940683", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 231"}
+{"time": "59.843067", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 21"}
+{"time": "563.954597", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "443.633788", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 126"}
+{"time": "33.98563", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 221"}
+{"time": "436.675857", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "46.937932", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 138"}
+{"time": "43.84072", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "5557.320181", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 71"}
+{"time": "50.794055", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 14"}
+{"time": "296.17394", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "416.95048", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 117"}
+{"time": "298.32411", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "50.282958", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "248.963523", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 34"}
+{"time": "269.67317", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 31"}
+{"time": "243.331571", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 20"}
+{"time": "213.706174", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "ink": "Link Status"}
+{"time": "53.079355", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 21"}
+{"time": "395.62288", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 110"}
+{"time": "39.247088", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 28"}
+{"time": "453.537457", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 147"}
+{"time": "405.822877", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 94"}
+{"time": "43.64731", "src": "0x1de6", "dst": "0xfffc", "protocol": "ZigBee", "length": "80", "info": "Link Status"}
+{"time": "53.941808", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 153"}
+{"time": "525.53364", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 204"}
+{"time": "597.633490", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 286"}
+{"time": "23.930955", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 137"}
+{"time": "43.073439", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 282"}
+{"time": "395.568223", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 185"}
+{"time": "8.974406", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "61", "info": "ZCL: Read Attributes Response, Seq: 76"}
+{"time": "196.667829", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 144"}
+{"time": "10.855725", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "ZCL: Read Attributes Response, Seq: 25"}
+{"time": "208.162897", "src": "0x1de6", "dst": "0xd7a7", "protocol": "ZigBee HA", "length": "69", "info": "
